@@ -23,4 +23,4 @@ cv2.destroyAllWindows()
 #cv2.destroyAllWindows()
 
 
-#https://thingspeak.com/channels/1597404f
+#https://thingspeak.com/channels/1597404f  - Repositorio de ThingSpeak
